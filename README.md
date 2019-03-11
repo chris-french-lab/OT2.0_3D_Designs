@@ -3,6 +3,7 @@
 3D models created by Trevor Ho, member of the Wang lab. Original repository can be found at https://github.com/tyhho/OT2.0_3D_Designs. 
 
 Models created by:
+
 | File  | Creator |
 | ------------- | ------------- |
 | OT2.0 200uL TipRackExterior 2.2.rsdoc  | Trevor Ho  |
