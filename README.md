@@ -4,12 +4,12 @@
 
 Models created by Trevor:
 
-OT2.0 200uL TipRackExterior 2.2.rsdoc	
-OT2.0 200uL TipRackExterior 2.2.stl	
-OT2.0 FalconTubeRack 1.8.rsdoc	
-OT2.0 FalconTubeRack 1.8.stl	
-OT2.0 IceBlock 1.0.rsdoc	
-OT2.0 IceBlock 1.1.stl	
+<td>OT2.0 200uL TipRackExterior 2.2.rsdoc	</td>
+<td>OT2.0 200uL TipRackExterior 2.2.stl	</td>
+<td>OT2.0 FalconTubeRack 1.8.rsdoc	</td>
+<td>OT2.0 FalconTubeRack 1.8.stl	</td>
+<td>OT2.0 IceBlock 1.0.rsdoc	</td>
+<td>OT2.0 IceBlock 1.1.stl	</td>
 
 
 
